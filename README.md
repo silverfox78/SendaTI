@@ -10,4 +10,4 @@ Es probable que la **ansiedad** sea un gran y voraz enemigo en su camino, de hec
 
 Existe mucha gente que tiene el conocimiento de hacer algo, pero eso no indica que sepa cómo hacerlo bien o siquiera se dé la oportunidad de averiguar el cómo, mi intención, es que el lector tenga las herramientas para lograr ir auto-mejorando y puliendo su labro como profesional, muchos pueden decir que saben el cómo, el detalle esta en aplicarlo y entenderlo.
 
-# ![GitHub](/image/siguiente.png)(https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200)
+# ![(/image/siguiente.png)](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200)
