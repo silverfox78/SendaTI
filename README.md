@@ -1,4 +1,4 @@
-![Portada](/image/Programming-Languages.png)
+![Portada](/image/Console.ico)
 
 # ![GitHub](https://github.com/favicon.ico) SendaTI
 
