@@ -1,4 +1,4 @@
-![Portada]/images/Programming-Languages.png)
+![Portada](/images/Programming-Languages.png)
 
 # SendaTI
 
