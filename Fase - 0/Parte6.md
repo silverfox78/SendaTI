@@ -53,6 +53,7 @@ Respecto a esto último, lo ideal es que te regales unos minutos al día y leas 
 - [ ] Zen y el arte del mantenimiento de la motocicleta de Robert M. Pirsig y Renato Valenzuela Molina
 
 Y si tienes tiempo para ver Teleseries, Mentinoticias o alguna de estas brutalidades en la televisión, mejor ve algunas de estas series:
+
 *PD*: La idea es no ver mas de un capitulo al dia, es solo para distraer un rato la mente...
 
 - [ ] Black Mirrow
@@ -70,6 +71,7 @@ Y si tienes tiempo para ver Teleseries, Mentinoticias o alguna de estas brutalid
 - [ ] Bugs
 
 Volvamos a lo informático...
+
 Quedamos en ser organizados y distribuir nuestros tiempos, el tema es ¿Cómo?
 
 ####Tarea 6
