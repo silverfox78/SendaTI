@@ -24,6 +24,8 @@ Es posible que hasta el día de hoy, su **amig@ fiel** solo haya sido usado para
 Siempre existe la opción de pagar por este servicio, incluso, tener un conocid@ que nos haga esta labor, pero créame, llegara el minuto donde solo podrán contar con ustedes mismos, por ende, entre antes lo entiendan y hagan, mejor…
 
 ####Tarea 2
+**Observación:** Llevar a cabo esta tarea bajo sus propias consecuencias y solo luego de haber leído e investigado mucho sobre el tema.
+
 * ¿Que consideraciones debe tener antes de formatear mi equipo?
 * ¿Qué es un Sistema Operativo **[SO]**?, ¿Cuáles existen?, ¿Qué diferencias tienen?
 * ¿Qué es eso de los 32 o 64 bits?
