@@ -26,19 +26,19 @@ Aunque no lo imaginen, hay muchas empresas que dejaron de usar sus aplicaciones 
 
 Respecto a los programas, si se preguntas si trabajo en Google o soy uno de sus predicadores, no y tampoco gano comisiones por nuevas almas capturadas, pero creo que es una buena y gratuita plataforma, en sugerirles que busquen opciones “**Piratas**”, los invito a que busquen las alternativas gratitas, por ejemplo
 
-- [*] 7 zip
-- [*] Avira o Avg (o otros…)
-- [*] Notepad++, Sublime o Atom (o otros…)
-- [*] Adobe reader
-- [*] PrimoPdf
-- [*] Firefox, Chrome o Safari (o otros…)
-- [*] Thunderbird, Mailbird o Nylas (o otros…)
-- [*] FileZilla
-- [*] Vlc
-- [*] Irfanview
-- [*] Fbreader
-- [*] Daemon tool
-- [*] Virtualbox
+- [x] 7 zip
+- [x] Avira o Avg (o otros…)
+- [x] Notepad++, Sublime o Atom (o otros…)
+- [x] Adobe reader
+- [x] PrimoPdf
+- [x] Firefox, Chrome o Safari (o otros…)
+- [x] Thunderbird, Mailbird o Nylas (o otros…)
+- [x] FileZilla
+- [x] Vlc
+- [x] Irfanview
+- [x] Fbreader
+- [x] Daemon tool
+- [x] Virtualbox
 
 Como parte adicional de la tarea, sería bueno se diesen el tiempo de saber que son estos programas, para que sirven, sus costos y si existen similares…
 

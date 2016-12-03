@@ -13,3 +13,15 @@ Que es un programa, cuales realmente se requieren, sus costos y alternativas, ju
 
 ###Solo somos muchos bytes... - Tarea 4
 Tener una cultura de usar la web como repositorio y usar de aplicativos opcionales a los del mercado formal.
+
+###Somos una legión - Tarea 5
+Aprender que y para que son las maquinas virtuales y crear una.
+
+###Vamo a calmarno!!! - Tarea 6
+Generar una rutina que incorpora algo de cultura no informatica y aprender a asumir nuevos compromisos.
+
+###Como caminar en la telaraña - Tarea 7
+Sabes un poco de que y como opera internet y tener presencia digital.
+
+###Eso que llaman informática - Tarea 8
+Que es informatica, programacion y sus principales lenguajes
