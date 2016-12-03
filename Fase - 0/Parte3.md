@@ -13,4 +13,4 @@ Ahora viene la pregunta, ¿Y qué programas le instamos?
 * ¿Qué es una licencia?, ¿Qué tipos de licencias existen?
 * ¿Cómo logro conseguir nuevos programas?, ¿Qué es el P2P?, ¿Qué es torrent?
 
-Cuando tengan lista (o deseen algunas sugerencias) la [Tarea 3], avancen a la **[Parte III](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Parte4.md)**
+Cuando tengan lista (o deseen algunas sugerencias) la [Tarea 3], avancen a la **[Parte IV](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Parte4.md)**
