@@ -23,4 +23,4 @@ Finalmente un par de sitios más, estos para que los tengas en la retina:
 * ¿Que rescatas la página de StackOverFlow?
 * ¿Para qué sirven las otras dos páginas?
 
-Cuando tengan lista la [Tarea 11], avancen a la **[Parte X](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Parte12.md)**
+Cuando tengan lista la [Tarea 11], avancen a la **[Parte XII](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Parte12.md)**

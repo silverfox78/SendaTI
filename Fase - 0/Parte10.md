@@ -44,4 +44,4 @@ La segunda parte de la tarea es más relacionado con el somos internamente y com
 * Que se requiere para realizar una opinión y los peligros de hacerla sin lo necesario.
 
 
-Cuando tengan lista la [Tarea 10], avancen a la **[Parte X](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Parte11.md)**
+Cuando tengan lista la [Tarea 10], avancen a la **[Parte XI](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Parte11.md)**
