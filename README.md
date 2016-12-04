@@ -18,4 +18,4 @@ Respecto al como afrontar las tareas, cada tarea haga en un documento de texto o
 
 ![Advertencia](/image/DontPanic.png)
 
-**[Fase Zero](https://github.com/silverfox78/SendaTI/blob/master/Fase%20-%200/readme.md)**
+Iniciar en: **[Fase Zero](https://github.com/silverfox78/SendaTI/blob/master/Fase%20-%200/readme.md)**
