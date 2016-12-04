@@ -28,3 +28,13 @@ Que es informatica, programacion y sus principales lenguajes
 
 ###Sentando las bases - Tarea 9
 Conocer los elementos de la programacion
+
+###Los grandes hermanos mayores - Tarea 10
+Conocer a los grandes personajes del rubro y algunos temas de la vida
+
+###Abriendo los ojos en el camino - Tarea 11
+Evaluar el conocimiento recolectado hasta el minuto y contrastarlo
+
+###Invocando al escritor dentro de nosotros
+Nociones para hacer un documento formal
+
