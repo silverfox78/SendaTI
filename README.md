@@ -10,4 +10,12 @@ Es probable que la **ansiedad** sea un gran y voraz enemigo en su camino, de hec
 
 Existe mucha gente que tiene el conocimiento de hacer algo, pero eso no indica que sepa cómo hacerlo bien o siquiera se dé la oportunidad de averiguar el cómo, mi intención, es que el lector tenga las herramientas para lograr ir auto-mejorando y puliendo su labro como profesional, muchos pueden decir que saben el cómo, el detalle esta en aplicarlo y entenderlo.
 
+![Advertencia](/image/warning.png)
+
+Esto es una **Guia**, no un manual, si espera respuestas, este **NO** es el lugar, pero si desea tener una base *mas, menos apropiada* tratare de preocuparme de cubrir un grupo de temas que le ayudaran mucho en su futura labor diaria, pero para que esto funcione, solo requiere de su compromiso real con su interés. Idealmente recomiendo que no se salte pasos y ojala haga las tareas encomendadas con un grupo de conocid@s y busque alguien que lo apoye.
+
+Respecto al como afrontar las tareas, cada tarea haga en un documento de texto o en lo que la tarea solicite, tambien es una opcion usar GitHub o un Blog como un repositorio para ellas, comprendera el sentido de esto mas adelante... :grimacing:
+
+![Advertencia](/image/DontPanic.png)
+
 **[Fase Zero](https://github.com/silverfox78/SendaTI/blob/master/Fase%20-%200/readme.md)**

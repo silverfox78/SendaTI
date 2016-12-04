@@ -27,4 +27,4 @@ Sabes un poco de que y como opera internet y tener presencia digital.
 Que es informatica, programacion y sus principales lenguajes
 
 ###Sentando las bases - Tarea 9
-Elementos de la programacion basica
+Conocer los elementos de la programacion

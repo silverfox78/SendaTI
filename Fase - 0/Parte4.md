@@ -15,6 +15,7 @@ Ustedes pueden preguntarse, **¿Y para qué?...** pregunta completamente valida,
 * Google Drive: https://drive.google.com
 * Google Groups: https://groups.google.com
 * Google Calendar: https://calendar.google.com
+* Google Keep: https://keep.google.com
 * Blogger: https://www.blogger.com
 
 Aunque no lo imaginen, hay muchas empresas que dejaron de usar sus aplicaciones convenciones, por ejemplo la suite de Microsoft para usar las herramientas de Google, en este caso específico, se viene la nueva tarea
