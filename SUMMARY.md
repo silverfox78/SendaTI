@@ -1,6 +1,5 @@
 # Summary
 
-* [Portada](Guia/portadamd.md)
-* [Prologo](Guia/prologo.md)
 * [Portada](Guia/portada.md)
+* [Prologo](Guia/prologo.md)
 
