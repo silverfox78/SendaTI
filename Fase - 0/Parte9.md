@@ -8,7 +8,9 @@ Esto claramente no es un curso de programación, es una guía…
 
 Idealmente es para que sea lo previo a un estudio o un complemento en los primeros pasos de un estudio, pero como podemos Programar, en este minuto ya sabemos lo que es:
 
-	Alguien con una capacidad de ofrecer una solución informática a un problema cotidiano, creando, modelando, evaluando, integrando y gestionando diferentes componentes.
+	Alguien con una capacidad de ofrecer una solución informática 
+    a un problema cotidiano, creando, modelando, evaluando, 
+    integrando y gestionando diferentes componentes.
 
 Si no lo tenías claro, me permito comentarte que es un rubro complejo con múltiples labores y aristas, si los tuviésemos que agrupar por labor e ingresos (pensando que el analista junior gana 1), podría decir que es más menos así:
 
