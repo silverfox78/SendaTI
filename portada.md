@@ -1,7 +1,4 @@
-# Portada
+# La Senda TI
 
-![Portada](Planning_Strategy.png?style=centerme)
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
+
+![Portada](Planning_Strategy.png)
