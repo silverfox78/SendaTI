@@ -1,5 +1,5 @@
 # La Senda TI
 
 
-![Portada](Planning_Strategy.png)
+![Portada](../image/Planning_Strategy.png)
 
