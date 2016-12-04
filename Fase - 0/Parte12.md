@@ -94,5 +94,6 @@ Para ver un documento de ejemplo, [Ver aquí](https://github.com/silverfox78/Sen
 * Aplicar este formato a todas las tareas hechas y las que se harán.
 * Buscar algún libro o apunte de Redacción y Sintaxis, considerar leer un poco de ellos a diario.
 * Buscar algún libro o apunte de Ortografía, considerar leer un poco de ellos a diario.
+* Sabes lo que es Lorem Ipsum, comenta...
 
 Cuando tengan lista la [Tarea 12], avancen a la **[Fase - 1](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%201/readme.md)**
