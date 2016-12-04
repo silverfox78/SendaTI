@@ -87,7 +87,7 @@ El texto debe estar apropiadamente alineado
  
 Yo en cada página debo saber en qué página estoy y que estoy leyendo, para esto se usa en el “**pie de la página**” el número de la página, esto es algo automático no manual y también se usa el “**encabezado de la página**” para poner la información del título del documento, la sección en la que nos encontramos, o subtitulo y el logo o nombre de la institución.
 
-Para ver un documento de ejemplo, [Ver aquí](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Plantilladocumento.docx)
+Para ver un documento de ejemplo, [Ver aquí](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Plantilladedocumento.docx)
 
 ####Tarea 12
 * Los documentos de las tareas redactados ¿Cumplen con estas características?
