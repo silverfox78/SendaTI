@@ -57,16 +57,16 @@ Y si tienes tiempo para ver Teleseries, Mentinoticias o alguna de estas brutalid
 *PD*: La idea es no ver mas de un capitulo al dia, es solo para distraer un rato la mente...
 
 - [ ] Black Mirrow
-- [ ] The IT Crowd
+- [ ] The IT Crowd (Comedia, Informáticos)
 - [ ] Silicon Valley
-- [ ] Mr Robot
-- [ ] Cosmos
-- [ ] Elementary
-- [ ] Dr Who
-- [ ] Torchwood
+- [ ] Mr Robot (Drama, Hacking)
+- [ ] Cosmos (Documental)
+- [ ] Elementary (Drama, Investigacion deductiva o procesal)
+- [ ] Dr Who (Ciencia Ficcion, Fantasia, Drama)
+- [ ] Torchwood (Spinoff de Dr Who)
 - [ ] Jake 2.0
-- [ ] Scorpion
-- [ ] CSI: Cyber
+- [ ] Scorpion (Drama, Hacking)
+- [ ] CSI: Cyber (Drama, Hacking, Investigacion deductiva o procesal)
 - [ ] Halt and Catch Fire
 - [ ] Bugs
 
