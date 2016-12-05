@@ -31,21 +31,21 @@ Pero volvamos a lo informático directamente con una nueva tarea sobre nuestra t
 * ¿Que redes sociales existen?, ¿Para qué sirven...?
 * ¿Que es slack?
 
-También y viendo que ya somos prisioneros de esta red, lo ideal es tener una presencia en ella, una presencia cuidadosamente atendida, en la cual deberíamos ser cuidadosos en el que subimos y como nos comunicas, aunque esto es solo una sugerencia muy a juicio personal, recomiendo que crees cuentas en las siguientes redes:
+También y viendo que ya somos prisioneros de esta red, lo ideal es tener una presencia en ella, una presencia cuidadosamente atendida, en la cual deberíamos ser cuidadosos en el que subimos y como nos comunicas, aunque esto es solo una sugerencia muy a juicio personal, estas son algunas redes que podrian interesarte:
 
-* https://www.linkedin.com/
-* https://about.me/
-* https://twitter.com/
-* https://es.wikipedia.org
-* http://stackoverflow.com/
-* https://es.pinterest.com/
-* https://projecteuler.net/
-* https://github.com/
-* https://www.meetup.com/es-ES/
-* https://mva.microsoft.com/
+* https://www.linkedin.com/ (Red social enfocada en empleos)
+* https://about.me/ (Perfil online)
+* https://twitter.com/ (Red social y noticias)
+* https://es.wikipedia.org (Enciclopedia online)
+* http://stackoverflow.com/ (Preguntas y respuestas orientadas a la programacion. Parte de stackexchange.com)
+* https://es.pinterest.com/ ("Red social" de imagenes)
+* https://projecteuler.net/ (Sitio de desafios computacionales)
+* https://github.com/ (Plataforma de versionado de codigo)
+* https://www.meetup.com/es-ES/ (Red social de organizacion de reuniones)
+* https://mva.microsoft.com/ (Academia virtual)
 
 ####Tarea 7 – Parte 2
 * Configura cada una de la cuentas
-* ¿Para qué era cada una de las redes en las que te inscribirte?
+* ¿De que me sirve cada una de las redes en las que me inscribí?
 
 Cuando tengan lista la [Tarea 7], avancen a la **[Parte VIII](https://github.com/silverfox78/SendaTI/tree/master/Fase%20-%200/Parte8.md)**
