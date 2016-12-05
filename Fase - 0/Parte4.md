@@ -10,13 +10,13 @@ Respecto a esto y a mi fascinación de que toda mi información se encuentre en 
 
 Ustedes pueden preguntarse, **¿Y para qué?...** pregunta completamente valida, pero tiene un propósito; Google provee por medio de su cuenta, un grupo de aplicaciones y espacios gratuitos a los cuales podemos echar mano, por ejemplo a:
 
-* Google Mail: https://mail.google.com
-* Google Docs: https://docs.google.com
-* Google Drive: https://drive.google.com
-* Google Groups: https://groups.google.com
-* Google Calendar: https://calendar.google.com
-* Google Keep: https://keep.google.com
-* Blogger: https://www.blogger.com
+* Google Mail: https://mail.google.com (Email)
+* Google Docs: https://docs.google.com (Suite Ofimática)
+* Google Drive: https://drive.google.com (Disco privado en la "Nube")
+* Google Groups: https://groups.google.com (Grupos de Discusión)
+* Google Calendar: https://calendar.google.com (Calendario Online)
+* Google Keep: https://keep.google.com (Notas, apuntes, recordatorios, listas, etc...)
+* Blogger: https://www.blogger.com (Blog)
 
 Aunque no lo imaginen, hay muchas empresas que dejaron de usar sus aplicaciones convenciones, por ejemplo la suite de Microsoft para usar las herramientas de Google, en este caso específico, se viene la nueva tarea
 
